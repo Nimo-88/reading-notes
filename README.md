@@ -1,2 +1,3 @@
 # reading-notes
-my reading journal 
+
+# My reading journal 
