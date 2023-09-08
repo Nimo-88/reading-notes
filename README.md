@@ -30,6 +30,5 @@ Hi everyone my name is Nimo Hersi I live in the greater Seattle area My professi
    
    
 
-https://github.com/Nimo-88/reading-notes/edit/main/README.md
-
+[THIS IS MY GITHUB PAGE](https://nimo-88.github.io/reading-notes/)
   
