@@ -31,3 +31,6 @@ extensions available when you need them.
 3. touch new-project/new-file.md: creates an empty file named "new-file.md" inside the "new-project" directory for storing.
 4. cd..it takes you back two steps.
 5. ls projects/new-project: It will display the files and subdirectories within the new-project.
+
+[Class02](https://nimo-88.github.io/reading-notes/class02)
+
