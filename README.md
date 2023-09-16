@@ -32,6 +32,8 @@ Hi everyone my name is Nimo Hersi I live in the greater Seattle area My professi
 - [Class02](https://nimo-88.github.io/reading-notes/class02)
 - [class03](https://nimo-88.github.io/Class03/)
 - [class04](https://github.com/Nimo-88/Class04)
+- [Class05](https://github.com/Nimo-88/class05)
+- 
 - 
   
 
