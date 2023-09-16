@@ -28,12 +28,16 @@ Hi everyone my name is Nimo Hersi I live in the greater Seattle area My professi
 
 # MY CODE FELLLOW TABLE OF CONTENT  
 
-- [Class01 Markdown](https://nimo-88.github.io/Markdown/)
+- [Class01](https://nimo-88.github.io/Markdown/)
 - [Class02](https://nimo-88.github.io/reading-notes/class02)
 - [class03](https://nimo-88.github.io/Class03/)
-- [class04](https://github.com/Nimo-88/Class04)
-- [Class05](https://github.com/Nimo-88/class05)
-- 
-- 
+- [class04](https://nimo-88.github.io/Class04/)
+- [Class05](https://nimo-88.github.io/class05/) 
+- [Class06](https://nimo-88.github.io/Class06/)
+- [Class07](https://nimo-88.github.io/Class07/)
+- [Class08](https://nimo-88.github.io/Class08/)
+- [Class09](https://nimo-88.github.io/Class09/)
+ 
+  
   
 
